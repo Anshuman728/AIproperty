@@ -129,7 +129,7 @@ cd Real-Estate-Website
 <details>
 <summary><b>Step 2: Setup environment variables</b></summary>
 
-Create `.env` files in the backend, frontend, and admin directories as follows:
+Create `.env` files in the backend, frontend, and admin directories as given:
 
 **Backend (.env)**
 
